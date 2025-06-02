@@ -1,0 +1,11 @@
+2025-06-01 19:23:40.624 [info] 
+
+
+
+
+2025-06-01 19:23:40.640 [info] Extension host agent started.
+2025-06-01 19:23:40.661 [info] Started initializing default profile extensions in extensions installation folder. file:///home/cloud_user_p_4a537f6b/.codeoss/extensions
+2025-06-01 19:23:40.676 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/cloud_user_p_4a537f6b/.codeoss/extensions
+2025-06-01 19:23:45.636 [info] [127.0.0.1][0000826e][ManagementConnection] New connection established.
+2025-06-01 19:23:45.638 [info] [127.0.0.1][a04b86e7][ExtensionHostConnection] New connection established.
+2025-06-01 19:23:47.674 [info] [127.0.0.1][a04b86e7][ExtensionHostConnection] <1627> Launched Extension Host Process.

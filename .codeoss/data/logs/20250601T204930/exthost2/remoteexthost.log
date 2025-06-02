@@ -1,0 +1,48 @@
+2025-06-01 21:37:45.066 [info] Extension host with pid 2871 started
+2025-06-01 21:37:45.089 [info] Lock '/home/cloud_user_p_4a537f6b/.codeoss/data/User/workspaceStorage/5e09a141/vscode.lock': Lock acquired.
+2025-06-01 21:37:45.160 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-01 21:37:45.240 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-01 21:37:45.295 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-01 21:37:45.295 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-01 21:37:45.515 [info] Eager extensions activated
+2025-06-01 21:37:45.515 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 21:37:45.516 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 21:37:45.516 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2025-06-01 21:37:45.517 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 21:37:45.517 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 21:37:46.743 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 21:37:48.243 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-01 21:37:48.244 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-01 21:37:48.245 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-01 21:38:10.534 [info] ExtensionService#_doActivateExtension hashicorp.terraform, startup: false, activationEvent: 'onLanguage:terraform'
+2025-06-01 21:38:50.036 [error] [hashicorp.terraform] provider FAILED
+2025-06-01 21:38:50.036 [error] Error: file:///home/cloud_user_p_4a537f6b/providers.tf: document not found
+    at an (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:25:241)
+    at ht (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6288)
+    at qr (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6418)
+    at Immediate.<anonymous> (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6169)
+    at processImmediate (node:internal/timers:483:21)
+2025-06-01 21:38:50.040 [error] [hashicorp.terraform] provider FAILED
+2025-06-01 21:38:50.040 [error] Error: file:///home/cloud_user_p_4a537f6b/providers.tf: document not found
+    at an (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:25:241)
+    at ht (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6288)
+    at qr (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6418)
+    at Immediate.<anonymous> (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6169)
+    at processImmediate (node:internal/timers:483:21)
+2025-06-01 21:38:50.040 [error] [hashicorp.terraform] provider FAILED
+2025-06-01 21:38:50.040 [error] Error: file:///home/cloud_user_p_4a537f6b/providers.tf: document not found
+    at an (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:25:241)
+    at ht (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6288)
+    at qr (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6418)
+    at Immediate.<anonymous> (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6169)
+    at processImmediate (node:internal/timers:483:21)
+2025-06-01 21:38:50.040 [error] [hashicorp.terraform] provider FAILED
+2025-06-01 21:38:50.041 [error] Error: file:///home/cloud_user_p_4a537f6b/providers.tf: document not found
+    at an (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:25:241)
+    at ht (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6288)
+    at qr (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6418)
+    at Immediate.<anonymous> (/home/cloud_user_p_4a537f6b/.codeoss/extensions/hashicorp.terraform-2.34.4-linux-x64/dist/extension.js:24:6169)
+    at processImmediate (node:internal/timers:483:21)
+2025-06-01 21:44:04.347 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-06-01 21:44:04.347 [info] Lock '/home/cloud_user_p_4a537f6b/.codeoss/data/User/workspaceStorage/5e09a141/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-06-01 21:44:04.374 [info] Extension host with pid 2871 exiting with code 0

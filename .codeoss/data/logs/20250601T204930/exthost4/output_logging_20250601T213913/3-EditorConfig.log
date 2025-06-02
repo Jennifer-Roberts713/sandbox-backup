@@ -1,0 +1,345 @@
+Initializing document watcher...
+Document watcher initialized
+cloud_user_p_4a537f6b/providers.tf: {}
+cloud_user_p_4a537f6b/providers.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/variables.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/main.tf: {}
+cloud_user_p_4a537f6b/modules/main.tf: {}
+cloud_user_p_4a537f6b/modules/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/main.tf: {}
+cloud_user_p_4a537f6b/modules/main.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/providers.tf: {}
+cloud_user_p_4a537f6b/providers.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/modules/main.tf: {}
+No more open editors.
+No more open editors.
+No more open editors.
+No more open editors.
+No more open editors.
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/providers.tf: {}
+cloud_user_p_4a537f6b/providers.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/variables.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/terraform.tfvars: Using EditorConfig core...
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/outputs.tf: {}
+cloud_user_p_4a537f6b/outputs.tf: {}
+cloud_user_p_4a537f6b/outputs.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/backend.tf: {}
+cloud_user_p_4a537f6b/backend.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/backend.tf: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/terraform.tfvars: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/outputs.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudsql/outputs.tf: {}
+cloud_user_p_4a537f6b/scripts/deploy.sh: {}
+cloud_user_p_4a537f6b/scripts/deploy.sh: Using EditorConfig core...
+cloud_user_p_4a537f6b/scripts/destroy.sh: {}
+cloud_user_p_4a537f6b/scripts/destroy.sh: {}
+cloud_user_p_4a537f6b/scripts/destroy.sh: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/scripts/destroy.sh: {}
+cloud_user_p_4a537f6b/scripts/destroy.sh: {}
+cloud_user_p_4a537f6b/scripts/deploy.sh: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/scripts/deploy.sh: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/scripts/deploy.sh: {}
+cloud_user_p_4a537f6b/backend.tf: {}
+cloud_user_p_4a537f6b/backend.tf: {}
+cloud_user_p_4a537f6b/backend.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/backend.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/variables.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/terraform.tfvars: Using EditorConfig core...
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/backend.tf: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/modules/cloudsql/variables.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/variables.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/variables.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/terraform.tfvars: Using EditorConfig core...
+cloud_user_p_4a537f6b/terraform.tfvars: Using EditorConfig core...
+cloud_user_p_4a537f6b/terraform.tfvars: Using EditorConfig core...
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/backend.tf: {}
+cloud_user_p_4a537f6b/backend.tf: {}
+cloud_user_p_4a537f6b/backend.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/modules/cloudsql/variables.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/terraform.tfvars: Using EditorConfig core...
+cloud_user_p_4a537f6b/terraform.tfvars: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudsql/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/variables.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/variables.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/variables.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/README.md: {}
+cloud_user_p_4a537f6b/modules/frontend/README.md: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/README.md: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/README.md: {}
+cloud_user_p_4a537f6b/modules/frontend/README.md: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/variables.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/variables.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudrun/variables.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/outputs.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudrun/outputs.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/variables.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/README.md: {}
+cloud_user_p_4a537f6b/modules/load_balancer/variables.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/variables.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/load_balancer/variables.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/main.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/load_balancer/main.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/outputs.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/load_balancer/outputs.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/outputs.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/load_balancer/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/main.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/main.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/main.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/variables.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/variables.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/main.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/modules/load_balancer/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/frontend/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+No more open editors.
+No more open editors.
+No more open editors.
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/variables.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/variables.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudrun/variables.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudrun/main.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/outputs.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/outputs.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/modules/cloudrun/outputs.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/variables.tf: {}
+cloud_user_p_4a537f6b/modules/cloudrun/outputs.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/Dockerfile: {}
+cloud_user_p_4a537f6b/Dockerfile: Using EditorConfig core...
+cloud_user_p_4a537f6b/Dockerfile: Using EditorConfig core...
+cloud_user_p_4a537f6b/Dockerfile: {}
+cloud_user_p_4a537f6b/Dockerfile: Using EditorConfig core...
+cloud_user_p_4a537f6b/Dockerfile: {}
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: {}
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: {}
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: {}
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: {}
+cloud_user_p_4a537f6b/shopeasy-api/src/server.js: {}
+cloud_user_p_4a537f6b/shopeasy-api/src/server.js: {}
+cloud_user_p_4a537f6b/shopeasy-api/src/server.js: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-api/src/package.json: {}
+cloud_user_p_4a537f6b/shopeasy-api/src/package.json: {}
+cloud_user_p_4a537f6b/shopeasy-api/src/package.json: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: {}
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: {}
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: {}
+cloud_user_p_4a537f6b/shopeasy-api/Dockerfile: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-api/src/server.js: {}
+cloud_user_p_4a537f6b/shopeasy-api/src/server.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.test.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/index.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/index.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/index.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/index.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: Using EditorConfig core...
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.css: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: Using EditorConfig core...
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/main.tf: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/README.md: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/package.json: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/package-lock.json: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/reportWebVitals.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/logo.svg: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/index.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/index.css: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.test.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+cloud_user_p_4a537f6b/shopeasy-frontend/src/App.js: {}
+No more open editors.
+No more open editors.
