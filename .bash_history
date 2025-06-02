@@ -289,3 +289,8 @@ git push -u origin main
 cd ~
 ls -l
 git init
+git add .
+git commit -m "Initial commit: Added project files"
+git remote add origin https://github.com/Jennifer-Roberts713/sandbox-backup.git
+git push -u origin main
+git init
